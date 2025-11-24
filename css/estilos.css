@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f3f3f3;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.menu a {
+    margin: 5px;
+    padding: 10px 15px;
+    display: inline-block;
+    background: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.menu a:hover {
+    background: #0056b3;
+}
+
+.galeria img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+audio, video {
+    display: block;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.embed-box {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}
